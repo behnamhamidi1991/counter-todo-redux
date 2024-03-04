@@ -76,8 +76,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-body {
-  background-color: rgb(31, 32, 48);
-  color: #fff;
-}
